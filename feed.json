@@ -10,17 +10,21 @@
     },
     "items": [
         {
-            "id": "https://eme.blog.br/volto-logo-logo/",
-            "url": "https://eme.blog.br/volto-logo-logo/",
-            "title": "Volto logo, logo 😅",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://64.media.tumblr.com/6320bf077573eae9fa35311628c309c3/eb88d6cdb9796b3c-24/s500x750/ba9bf288446872d8e9ad5c294deb4478f806368d.gifv\" alt=\"\" width=\"682\" height=\"411\" data-is-external-image=\"true\"></figure>\n<p class=\"align-center\"> </p>",
+            "id": "https://eme.blog.br/1/",
+            "url": "https://eme.blog.br/1/",
+            "title": "#1 - Como organizo minha rotina de estudos?",
+            "summary": "Para esta grande re-re-reinauguração, optei por deixar registrado meu primeiro plano de estudo do meu projeto pessoal e autodidata em línguas estrangeiras. Pois bem, antes&hellip;",
+            "content_html": "<p>Para esta grande re-re-reinauguração, optei por deixar registrado meu primeiro plano de estudo do <a href=\"https://eme.blog.br/versao-legendada/\" target=\"_blank\" rel=\"noopener noreferrer\">meu projeto pessoal e autodidata </a>em línguas estrangeiras. </p>\n<p>Pois bem, antes de iniciar essa caminhada linguística, já estava certo que minha intenção não era buscar fluência de forma rápida, mas sim vivenciar o processo de aprendizagem desses idiomas. </p>\n<p>Portanto, não estava nem um pouco interessada em criar um método de estudos. Na verdade, peguei emprestado um conceito bastante conhecido na área da administração: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://aprenderlinguas.com.br/principio-de-pareto/?source_type=web\"><u>o princípio de Pareto</u></a>  - só que aplicado no aprendizado de idiomas. E então surge a pergunta: como organizar um plano de estudo?</p>\n<p class=\"tiptap-paragraph\" data-is-edited=\"null\" data-pm-slice=\"1 1 []\">Partindo do princípio de Pareto — em que 20% dos esforços geram 80% dos resultados —, e considerando que meu objetivo sempre foi equilibrar minha atenção entre os sete idiomas, precisei fazer uma adaptação e estruturar um sistema rotativo de aprendizado. Dessa forma, organizei os idiomas em três níveis de prioridade: <strong>alta, média e baixa.  </strong></p>\n<p data-is-edited=\"null\" data-pm-slice=\"1 1 []\">Sigo essa estrutura ao longo de um mês. No mês seguinte, faço a rotação dos idiomas. Ou seja, os idiomas que no mês anterior estavam em alta passam para média; os de média passam para baixa; e os de baixa passam para alta prioridade. <strong>Domingo é dia livre.</strong></p>\n<p class=\"tiptap-paragraph\" data-is-edited=\"null\" data-pm-slice=\"1 1 []\">Eu não entro na gramática do idioma. Porém, se surgir alguma dúvida relacionada a isso, eu apenas anoto no meu caderno e sigo adiante. No momento, o que me interessa é a construção de vocabulário - o que envolve aprender frases essenciais com práticas orais.</p>\n<p data-is-edited=\"null\" data-pm-slice=\"1 1 []\"> </p>",
+            "image": "https://eme.blog.br/media/posts/12/0405202500045562-2-207501213-2.jpg",
             "author": {
                 "name": "Marcia 玛霞"
             },
             "tags": [
+                   "versão legendada",
+                   "rotina de estudos"
             ],
-            "date_published": "2026-11-06T11:37:20-03:00",
-            "date_modified": "2026-11-06T11:37:20-03:00"
+            "date_published": "2026-11-07T13:07:12-03:00",
+            "date_modified": "2026-11-07T16:17:30-03:00"
         }
     ]
 }
